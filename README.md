@@ -26,7 +26,7 @@ DIO.me: Projeto em Eclipse para exemplificar o uso de pacotes na linguagem Java
  }
  ```
  
- No código acima, a classe Cliente possui o método `adicionarCliente`, que ficará visível para a classe Produto abaixo, pois está no mesmo pacote que a classe Cliente:
+ No código acima, a classe Cliente possui o método `salvarCliente`, que ficará visível para a classe Produto abaixo, pois está no mesmo pacote que a classe Cliente (`package com.meusistema.service`):
   
  ```
  package com.meusistema.service
