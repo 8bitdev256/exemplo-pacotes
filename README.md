@@ -49,7 +49,9 @@ DIO.me: Projeto em Eclipse para exemplificar o uso de pacotes na linguagem Java
 
 Podem ser criados:
 1 - Manualmente;
+
 2 - No Elipse, através das teclas `Ctrl + Barra de Espaço`, digitando parte do nome antes;
+
 3 - `Botão direito do mouse -> Source -> Generate Getters and Setters...`.
 
 ```
