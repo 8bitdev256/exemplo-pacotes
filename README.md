@@ -47,7 +47,10 @@ DIO.me: Projeto em Eclipse para exemplificar o uso de pacotes na linguagem Java
  ```
 ### Getters e Setters
 
-Podem ser criados manualmente, ou, no Elipse, através das teclas `Ctrl + Barra de Espaço` ou em `Botão direito do mouse -> Source -> Generate Getters and Setters...`
+Podem ser criados:
+1 - Manualmente;
+2 - No Elipse, através das teclas `Ctrl + Barra de Espaço`, digitando parte do nome antes;
+3 - `Botão direito do mouse -> Source -> Generate Getters and Setters...`.
 
 ```
 public class Student {
