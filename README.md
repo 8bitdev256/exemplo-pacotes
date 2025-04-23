@@ -3,6 +3,8 @@ DIO.me: Projeto em Eclipse para exemplificar o uso de pacotes na linguagem Java
 
 ## Anotações
 
+### Modificadores de Acesso
+
  - Em Java, quando existe mais de uma classe dentro do mesmo pacote,
  e em uma dessas classes há um método sem um modificador de acesso (private, protected ou public),
  a visibilidade deste método é considerada a visibilidade default, ou seja, este método estará visível
@@ -43,3 +45,4 @@ DIO.me: Projeto em Eclipse para exemplificar o uso de pacotes na linguagem Java
 	}
  }
  ```
+### Getters e Setters
