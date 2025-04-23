@@ -46,3 +46,17 @@ DIO.me: Projeto em Eclipse para exemplificar o uso de pacotes na linguagem Java
  }
  ```
 ### Getters e Setters
+
+```
+public class Student {
+	private String name;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String newValue) {
+		name = newValue;
+	}
+}
+```
